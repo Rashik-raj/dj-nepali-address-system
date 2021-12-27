@@ -1,10 +1,6 @@
-# dj-nepali-address-system
+# dj-nepali-address
 
-=====
-NEPALI ADDRESS
-=====
-
-dj-nepali-address-system is a Django app to use predefined province, district and municipality.
+dj-nepali-address is a Django app to use predefined province, district and municipality.
 You may add new data as required
 
 Detailed documentation is in the "docs" directory.
