@@ -1,5 +1,3 @@
-# dj-nepali-address-system
-
 =====
 NEPALI ADDRESS
 =====
