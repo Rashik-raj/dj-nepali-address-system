@@ -18,3 +18,8 @@ Quick start
 2. Run ``python manage.py migrate`` to create the nepali_address models.
 
 3. Run ``python manage.py loaddata nepali_address`` to load data in nepali_address models.
+
+Documentation
+-------------
+
+For full documentation, visit [dj-nepali-address-system.readthedocs.io](https://dj-nepali-address-system.readthedocs.io/en/latest/).
